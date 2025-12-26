@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, Its me!!! SecureWithDavid! 
 
-<!--
-**EgereDavid/EgereDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  IT Support & security Analyst
 
-Here are some ideas to get you started:
+I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security—translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+My background in IT has equipped me with the capacity to troubleshoot complex issues. I am committed to collaborating effectively with peers and leaders to achieve shared goals. I highly value attention to detail, and my passion for chess continually reinforces the importance of critical thinking and problem-solving in security settings.
+
+---
+
+## 🛠️ Technical Skills
+
+* **Security & Support:** Endpoint Security, User Support, Troubleshooting, Defense Strategies
+* **Networking:** DNS, TCP/IP, Connectivity Diagnostics
+* **Tools & Languages:** Python, SQL, Linux, Command Line
+
+---
+
+## 📂 Portfolio Projects
+
+### 1. [🌐 DNS Connectivity Troubleshooting](./DNS-Connectivity-Log)
+**Scenario:** A client couldn't access the internet despite being connected to Wi-Fi.
+**Action:** Diagnosed a "soft" failure using `ping` and `nslookup`. Traced the root cause to a static, invalid DNS entry (`10.0.0.0`).
+**Result:** Restored connectivity by configuring Cloudflare Public DNS and flushing the cache.
+* [**View Full Case Study & Screenshots ➡️**](https://github.com/EgereDavid/DNS-Connectivity-Log)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=EgereDavid&color=blue)
