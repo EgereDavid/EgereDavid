@@ -22,7 +22,7 @@ My background in IT has equipped me with the capacity to troubleshoot complex is
 
 ## 📂 PORTFOLIO PROJECTS
 
-### 1. [ DNS Connectivity Troubleshooting](./DNS-Connectivity-Log)
+### 1. [ DNS Connectivity Troubleshooting](https://github.com/EgereDavid/DNS-Connectivity-Log)
 **Scenario:** A client couldn't access the internet despite being connected to Wi-Fi.
 **Action:** Diagnosed a "soft" failure using `ping` and `nslookup`. Traced the root cause to a static, invalid DNS entry (`10.0.0.0`).
 **Result:** Restored connectivity by configuring Cloudflare Public DNS and flushing the cache.
