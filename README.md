@@ -27,7 +27,7 @@ My background in IT has equipped me with the capacity to troubleshoot complex is
 **Action:** Diagnosed a "soft" failure using `ping` and `nslookup`. Traced the root cause to a static, invalid DNS entry (`10.0.0.0`).
 **Result:** Restored connectivity by configuring Cloudflare Public DNS and flushing the cache.
 * [**View Full Case Study & Screenshots ➡️**](https://github.com/EgereDavid/DNS-Connectivity-Log)
-### 2. [🛡️ Windows Security Audit & Forensics](https://github.com/EgereDavid/Windows-Security-Audit-)
+### 2. [ Windows Security Audit & Forensics](https://github.com/EgereDavid/Windows-Security-Audit-)
 **Scenario:** Client suspected persistent malware mechanisms on a workstation.
 **Action:** Conducted a forensic audit using Sysinternals Autoruns and VirusTotal API. Identified and disabled high-risk unsigned drivers while avoiding false positives in the Registry (WoW64).
 **Result:** Achieved 0 active intrusions and maintained 100% system stability.
