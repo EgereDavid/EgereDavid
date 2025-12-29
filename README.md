@@ -32,11 +32,16 @@ My background in IT has equipped me with the capacity to troubleshoot complex is
 **Action:** Conducted a forensic audit using Sysinternals Autoruns and VirusTotal API. Identified and disabled high-risk unsigned drivers while avoiding false positives in the Registry (WoW64).
 **Result:** Achieved 0 active intrusions and maintained 100% system stability.
 * [**View Full Audit Log ➡️**](https://github.com/EgereDavid/Windows-Security-Audit-)
-### 3. [💻 Windows Kernel BSOD Analysis](https://github.com/EgereDavid/Windows-Kernel-BSOD-Analysis)
+### 3. [ Windows Kernel BSOD Analysis](https://github.com/EgereDavid/Windows-Kernel-BSOD-Analysis)
 **Scenario:** Production workstation suffered random crashes (`IRQL_NOT_LESS_OR_EQUAL`).
 **Action:** Analyzed memory dump files (`.dmp`) using BlueScreenView. Traced the kernel panic to missing Intel Thermal Framework drivers.
 **Result:** Eliminated crashes by deploying OEM-specific chipset drivers.
 * [**View Forensics Report ➡️**](https://github.com/EgereDavid/Windows-Kernel-BSOD-Analysis)
+### 4. [ Malware Remediation & ACL Management](https://github.com/EgereDavid/malware-persistence-remediation)
+**Scenario:** A compromised USB installer dropped a persistent Trojan into `System32` protected by TrustedInstaller.
+**Action:** Identified the unsigned payload and used CLI commands (`takeown`, `icacls`) to escalate privileges and override system file protections.
+**Result:** Successfully eradicated the malware without requiring a system re-image.
+* [**View Remediation Log ➡️**](https://github.com/EgereDavid/malware-persistence-remediation)
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgereDavid&color=blue)
