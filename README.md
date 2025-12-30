@@ -1,15 +1,15 @@
 # Hi there, Its me!!! SecureWithDavid! 
 
-![profile](mainlogo.png)
+![profile](mianlogo.png)
 IT Support & security Analyst
 
 I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security—translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
 
 ---
+### About Me
 
-## ABOUT ME
+Growing up in the heart of **'God's Own State,' Nigeria**, my technical journey began early, collecting and repairing old radios, antennas, and electronics.
 
-Growing up in the heart of **'God's Own State,' Nigeria**, my technical journey began early, collecting and repairing old radios, antennas, and electronics. 
 That childhood curiosity has evolved into a robust **IT background**, equipping me with the capacity to troubleshoot complex system issues and collaborate effectively to achieve shared goals. Today, I channel that same problem-solving drive, sharpened by my love for **chess**, into critical thinking and rigorous attention to detail within **security settings**.
 ---
 
