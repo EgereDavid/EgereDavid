@@ -1,6 +1,8 @@
 # Hi there, Its me!!! SecureWithDavid! 
 
-###  IT Support & security Analyst
+!(me.png)
+
+                                    ###  IT Support & security Analyst
 
 I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security—translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
 
@@ -37,11 +39,11 @@ My background in IT has equipped me with the capacity to troubleshoot complex is
 **Action:** Analyzed memory dump files (`.dmp`) using BlueScreenView. Traced the kernel panic to missing Intel Thermal Framework drivers.
 **Result:** Eliminated crashes by deploying OEM-specific chipset drivers.
 * [**View Forensics Report ➡️**](https://github.com/EgereDavid/Windows-Kernel-BSOD-Analysis)
-### 4. [ Malware Remediation & ACL Management](https://github.com/EgereDavid/malware-persistence-remediation)
+### 4. [ Malware Remediation & ACL Management](https://github.com/EgereDavid/-Malware-and-Remediation-)
 **Scenario:** A compromised USB installer dropped a persistent Trojan into `System32` protected by TrustedInstaller.
 **Action:** Identified the unsigned payload and used CLI commands (`takeown`, `icacls`) to escalate privileges and override system file protections.
 **Result:** Successfully eradicated the malware without requiring a system re-image.
-* [**View Remediation Log ➡️**](https://github.com/EgereDavid/malware-persistence-remediation)
+* [**View Remediation Log ➡️**](https://github.com/EgereDavid/-Malware-and-Remediation-)
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgereDavid&color=blue)
