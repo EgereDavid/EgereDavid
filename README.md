@@ -1,6 +1,6 @@
 # Hi there, Its me!!! SecureWithDavid! 
 
-![profile](me.png)
+![profile](me.jpg)
 
  ##IT Support & security Analyst
 
