@@ -9,8 +9,8 @@ I’m an IT Support professional turning cybersecurity analyst, grounded in Endp
 
 ## ABOUT ME
 
-My background in IT has equipped me with the capacity to troubleshoot complex issues. I am committed to collaborating effectively with peers and leaders to achieve shared goals. I highly value attention to detail, and my passion for chess continually reinforces the importance of critical thinking and problem-solving in security settings.
-
+Growing up in the heart of **'God's Own State,' Nigeria**, my technical journey began early, collecting and repairing old radios, antennas, and electronics. 
+That childhood curiosity has evolved into a robust **IT background**, equipping me with the capacity to troubleshoot complex system issues and collaborate effectively to achieve shared goals. Today, I channel that same problem-solving drive, sharpened by my love for **chess**, into critical thinking and rigorous attention to detail within **security settings**.
 ---
 
 ## TECHNICAL SKILLS
