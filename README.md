@@ -8,7 +8,7 @@ I’m an IT Support professional turning cybersecurity analyst, grounded in Endp
 ---
 ### About Me
 
-Growing up in the heart of **'God's Own State,' Nigeria**, my technical journey began early, collecting and repairing old radios, antennas, and electronics.
+Growing up in the heart of **'God's Own State,' Nigeria**, my technical journey began early, collecting and repairing old electronics at childhood.
 
 That childhood curiosity has evolved into a robust **IT background**, equipping me with the capacity to troubleshoot complex system issues and collaborate effectively to achieve shared goals. Today, I channel that same problem-solving drive, sharpened by my love for **chess**, into critical thinking and rigorous attention to detail within **security settings**.
 ---
@@ -44,5 +44,10 @@ That childhood curiosity has evolved into a robust **IT background**, equipping 
 **Result:** Successfully eradicated the malware without requiring a system re-image.
 * [**View Remediation Log ➡️**](https://github.com/EgereDavid/-Malware-and-Remediation-)
 ---
+Education:
+![Google cybersecurity certificate]()
+![comptia A+ linkedin learning]()
+![Pathway connect certificate]()
+![BSC in system administration in progress](ENSIGN_COLLEDGE)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgereDavid&color=blue)
