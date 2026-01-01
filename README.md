@@ -44,10 +44,10 @@ That childhood curiosity has evolved into a robust **IT background**, equipping 
 **Result:** Successfully eradicated the malware without requiring a system re-image.
 * [**View Remediation Log ➡️**](https://github.com/EgereDavid/-Malware-and-Remediation-)
 ---
-Education:
+* [**Education*]
 ![Google cybersecurity certificate]()
 ![comptia A+ linkedin learning]()
 ![Pathway connect certificate]()
-![BSC in system administration in progress](ENSIGN_COLLEDGE)
+* [**System Administration:ENSIGN_COLLEDGE 2025-28**] 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=EgereDavid&color=blue)
