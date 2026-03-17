@@ -3,7 +3,7 @@
 ![profile](merefined.jpg)
 IT Support & security Analyst
 
-I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security—translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
+I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security, translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
 
 ---
 ### About Me
@@ -15,8 +15,8 @@ That childhood curiosity has evolved into a robust **IT background**, equipping 
 
 ## TECHNICAL SKILLS
 
-* **Security & Support:** Endpoint Security, User Support, Troubleshooting, Defense Strategies
-* **Networking:** DNS, TCP/IP, Connectivity Diagnostics
+* **Security & Support:** Endpoint Security, User Support, Troubleshooting MICOROSOFT OS, Defense Strategies
+* **Networking:**SUBNETTING, DHCP, DNS, TCP/IP, Connectivity Diagnostics
 * **Tools & Languages:** Python, SQL, Linux, Command Line
 
 ---
@@ -43,6 +43,8 @@ That childhood curiosity has evolved into a robust **IT background**, equipping 
 **Action:** Identified the unsigned payload and used CLI commands (`takeown`, `icacls`) to escalate privileges and override system file protections.
 **Result:** Successfully eradicated the malware without requiring a system re-image.
 * [**View Remediation Log ➡️**](https://github.com/EgereDavid/-Malware-and-Remediation-)
+
+* [**View A CLIENT HOME NEWORK DESIGN SIMULATED WITH PACKET TRACER**](https://github.com/EgereDavid/Home-Network-Design-Wireless-Security-Implementation)
 ---
  **Education*
 ![Google cybersecurity certificate]()
