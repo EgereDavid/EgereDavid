@@ -3,7 +3,7 @@
 ![profile](mainphoto.png)
 IT Support & security Analyst
 
-I’m an IT Support professional turning cybersecurity analyst, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security, translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
+I’m an IT Support professional and Video Editor, grounded in Endpoint security, user support, and troubleshooting experience. I bring a practical edge to security, translating technical issues into clear, actionable defense strategies. With a strategist’s mindset and growing expertise in networking, Python, SQL, and Linux tools, I’m driven to protect what others depend on.
 
 ---
 ### About Me
